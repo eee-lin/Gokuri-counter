@@ -29,3 +29,4 @@ Github: PoodleMaster
 
 ## ■License
 Check the LICENSE file.
+# Gokuri-counter
